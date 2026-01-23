@@ -6,3 +6,11 @@ For the block matching approach, two widely used similarity metrics are implemen
 In addition to block matching, the repository includes a dynamic programming–based stereo matching method, which enforces smoothness constraints along image scanlines to produce more consistent disparity maps, particularly in regions with low texture or occlusions.
 
 Overall, this repository serves as a practical and educational reference for understanding and comparing classical stereo matching techniques, highlighting the trade-offs between accuracy, robustness, and computational cost in disparity estimation.
+
+# Contributors 
+
+Zaid Hatem
+
+Rowaa Ahmed 
+
+
